@@ -73,7 +73,7 @@ I continuously work on coding challenges and build projects to strengthen my und
 ## 📫 Get in Touch:
 Feel free to reach out if you want to collaborate, discuss tech, or work on interesting projects!
 
-**Email:** chandansgowda167@gmail.com  
+**Email:** santhoshhd.in@gmail.com  
 **GitHub:** [@santhosh-hd-ctrl](https://github.com/santhosh-hd-ctrl)
 
 ---
